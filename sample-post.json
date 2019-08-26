@@ -1,0 +1,1 @@
+{"type":"PR","pr":{"number":1,"head":"25a68cdef3c1ba1950643403e6b0df7d6cfde1f1"},"user":"Jaap Vermeulen","status":"draft","branch":"cms/sample-post","collection":"posts","title":"Sample post","description":"No Description!","objects":{"entry":{"path":"src/posts/sample-post.md","sha":"a259c8734b393ec66b2d28408d0ed5a68c6a1960"},"files":[]},"timeStamp":"2019-08-26T21:35:24.243Z"}
